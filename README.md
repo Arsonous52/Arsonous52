@@ -1,0 +1,4 @@
+- Hi, I’m @ArsonousKnight52
+- I’m interested in Art
+- I’m currently learning C# and Unity
+- You can reach me through Twitter or Email me at alex.gordons064@gmail.com
